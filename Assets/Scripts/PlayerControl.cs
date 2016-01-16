@@ -34,6 +34,7 @@ public class PlayerControl : MonoBehaviour
 		groundCheck = transform.Find("groundCheck");
 		anim = GetComponent<Animator>();
 		score = GameObject.Find("Score").GetComponent<Score>();
+		Screen.sleepTimeout = SleepTimeout.NeverSleep;
 	}
 
 
@@ -54,11 +55,14 @@ public class PlayerControl : MonoBehaviour
 		// Cache the horizontal input.
 		#if UNITY_EDITOR
 		float h = Input.GetAxis("Horizontal");
-		#elif !UNITY_EDITOR && UNITY_ANDROID
+		#elif !UNITY_EDITOR
 		// Vector3 movement = new Vector3 (Input.acceleration.x, 0.0f, 0.0f);
 		float h = Input.acceleration.x;
 		#endif
 
+		if (score.score > 500f)
+			h = 0;
+		
 		// The Speed animator parameter is set to the absolute value of the horizontal input.
 		anim.SetFloat("Speed", Mathf.Abs(h));
 

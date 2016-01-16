@@ -1,9 +1,57 @@
 fileFormatVersion: 2
 guid: 07baeb42be5d540d8aa652ecce2d8f3e
-timeCreated: 1452479412
+timeCreated: 1452962856
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: panda_sprite_by_balvick-d7qrors_0
+    21300002: panda_sprite_by_balvick-d7qrors_1
+    21300004: panda_sprite_by_balvick-d7qrors_2
+    21300006: panda_sprite_by_balvick-d7qrors_3
+    21300008: panda_sprite_by_balvick-d7qrors_4
+    21300010: panda_sprite_by_balvick-d7qrors_5
+    21300012: panda_sprite_by_balvick-d7qrors_6
+    21300014: panda_sprite_by_balvick-d7qrors_7
+    21300016: panda_sprite_by_balvick-d7qrors_8
+    21300018: panda_sprite_by_balvick-d7qrors_9
+    21300020: panda_sprite_by_balvick-d7qrors_10
+    21300022: panda_sprite_by_balvick-d7qrors_11
+    21300024: panda_sprite_by_balvick-d7qrors_12
+    21300026: panda_sprite_by_balvick-d7qrors_13
+    21300028: panda_sprite_by_balvick-d7qrors_14
+    21300030: panda_sprite_by_balvick-d7qrors_15
+    21300032: panda_sprite_by_balvick-d7qrors_16
+    21300034: panda_sprite_by_balvick-d7qrors_17
+    21300036: panda_sprite_by_balvick-d7qrors_18
+    21300038: panda_sprite_by_balvick-d7qrors_19
+    21300040: panda_sprite_by_balvick-d7qrors_20
+    21300042: panda_sprite_by_balvick-d7qrors_21
+    21300044: panda_sprite_by_balvick-d7qrors_22
+    21300046: panda_sprite_by_balvick-d7qrors_23
+    21300048: panda_sprite_by_balvick-d7qrors_24
+    21300050: panda_sprite_by_balvick-d7qrors_25
+    21300052: panda_sprite_by_balvick-d7qrors_26
+    21300054: panda_sprite_by_balvick-d7qrors_27
+    21300056: panda_sprite_by_balvick-d7qrors_28
+    21300058: panda_sprite_by_balvick-d7qrors_29
+    21300060: panda_sprite_by_balvick-d7qrors_30
+    21300062: panda_sprite_by_balvick-d7qrors_31
+    21300064: panda_sprite_by_balvick-d7qrors_32
+    21300066: panda_sprite_by_balvick-d7qrors_33
+    21300068: panda_sprite_by_balvick-d7qrors_34
+    21300070: panda_sprite_by_balvick-d7qrors_35
+    21300072: panda_sprite_by_balvick-d7qrors_36
+    21300074: panda_sprite_by_balvick-d7qrors_37
+    21300076: panda_sprite_by_balvick-d7qrors_38
+    21300078: panda_sprite_by_balvick-d7qrors_39
+    21300080: panda_sprite_by_balvick-d7qrors_40
+    21300082: panda_sprite_by_balvick-d7qrors_41
+    21300084: panda_sprite_by_balvick-d7qrors_42
+    21300086: panda_sprite_by_balvick-d7qrors_43
+    21300088: panda_sprite_by_balvick-d7qrors_44
+    21300090: panda_sprite_by_balvick-d7qrors_45
+    21300092: panda_sprite_by_balvick-d7qrors_46
+    21300094: panda_sprite_by_balvick-d7qrors_47
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +78,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +86,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +97,727 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: panda_sprite_by_balvick-d7qrors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 262
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 26.5}
+        - {x: -40.5, y: -26.5}
+        - {x: 40.5, y: -26.5}
+        - {x: 40.5, y: 26.5}
+    - name: panda_sprite_by_balvick-d7qrors_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 26.5}
+        - {x: -39.5, y: -26.5}
+        - {x: 39.5, y: -26.5}
+        - {x: 39.5, y: 26.5}
+    - name: panda_sprite_by_balvick-d7qrors_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_27
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_28
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_30
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_31
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 172
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_41
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_42
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_43
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_44
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_45
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_46
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
+    - name: panda_sprite_by_balvick-d7qrors_47
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 82
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 45}
+        - {x: -31.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 31.5, y: 45}
     outline: []
   spritePackingTag: 
   userData: 

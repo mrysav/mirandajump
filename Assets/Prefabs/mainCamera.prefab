@@ -95,7 +95,7 @@ MonoBehaviour:
   yMargin: 0
   xSmooth: 0
   ySmooth: 1
-  maxXAndY: {x: 5, y: 100}
+  maxXAndY: {x: 5, y: 200}
   minXAndY: {x: -5, y: -5}
 --- !u!124 &12400000
 Behaviour:
