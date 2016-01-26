@@ -27,7 +27,6 @@ public class PlayerControl : MonoBehaviour
 	private Score score;
 	private float maxHeight = 0;
 
-
 	void Awake()
 	{
 		// Setting up references.
@@ -36,7 +35,6 @@ public class PlayerControl : MonoBehaviour
 		score = GameObject.Find("Score").GetComponent<Score>();
 		Screen.sleepTimeout = SleepTimeout.NeverSleep;
 	}
-
 
 	void Update()
 	{
@@ -83,7 +81,7 @@ public class PlayerControl : MonoBehaviour
 		GetComponent<CircleCollider2D>().enabled = !jumping;
 
 		if(jumping && transform.position.y > maxHeight)
-			score.score += .5f;
+			score.score += .55f;
 
 		if(transform.position.y > maxHeight)
 			maxHeight = transform.position.y;

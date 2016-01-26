@@ -9,6 +9,8 @@ public class Score : MonoBehaviour
 	private PlayerControl playerControl;		// Reference to the player control script.
 	private float previousScore = 0;			// The score in the previous frame.
 
+	public GameObject clueShower;
+
 
 	void Awake ()
 	{
@@ -19,6 +21,11 @@ public class Score : MonoBehaviour
 
 	void Update ()
 	{
+
+		if (clueShower) {
+			clueShower.SetActive (score >= 500);
+		}
+
 		// Set the score text.
 		GetComponent<GUIText>().text = "Score: " + (int)score;
 
